@@ -44,7 +44,8 @@ project-root/
 ## 🧪 How to Run
 
 1. **Clone the repo**:
-   git clone https://github.com/yourusername/spendsnap.git
+   git clone https://github.com/kaustubh-x-d/SpendSnap
+   
    cd spendsnap
 
 ## 🧱 MySQL Setup Instructions
@@ -104,3 +105,4 @@ Feel free to fork, improve, or suggest ideas!
 MIT License — use, modify, and build upon this project freely.
 
 ---
+
